@@ -9,23 +9,11 @@ In this code task, we only focus on the toy exmaple of Rectified Flow, which is 
 
 ## 2 Task Description
 
-### Stage 1
+Please following the instruction [here](code_task_instructions.pdf) to complete the stage 1 and stage 2 of the code task.
 
-TODO
+***Please contact Zhizhou Sha (shazhizhou0@gmail.com) if you have any questions, or you encountered any obstacles!!!***
 
-### Stage 2
-
-You should find out that first order loss and second order loss are not in the **same scale**. Please try to balance the two losses.
-
-For example, the weighted loss should be like this:
-
-$$
-Loss = \lambda_1 \cdot Loss_{fisrt-order} + \lambda_2 \cdot Loss_{second-order}
-$$
-
-For simplisity, we recommend you to fix $\lambda_1 = 1$ and adjust $\lambda_2$ to balance those two losses.
-
-## 3 Expected Results
+### 2.1 Expected Results
 
 If you finish Stage 1, you should have the following results
 

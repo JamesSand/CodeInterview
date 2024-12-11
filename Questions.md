@@ -16,3 +16,7 @@
 
 ## 3 Diffusion models
 
+1 简单解释一下什么是 Diffusion model？
+
+
+
