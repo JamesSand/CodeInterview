@@ -6,7 +6,15 @@
 
 2 训练一个 iteration 的过程是怎样的？
 
-3 什么是 learning rate scheduling？
+3 什么是 learning rate scheduling？说几个 learning rate schduler 的名字，说说他们说是怎么 work 的
+
+4 torech reshape 和 torch view 有什么区别
+
+5 contingous 有什么用
+
+6 Adam 和 SGD 有什么区别
+
+7 torch cat 和 torch stack 有什么区别
 
 ## 2 Transformers
 
